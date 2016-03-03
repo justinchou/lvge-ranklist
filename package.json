@@ -1,6 +1,6 @@
 {
   "name": "lvge-ranklist",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Rank List Module, With Redis Supported",
   "main": "index.js",
   "dependencies": {

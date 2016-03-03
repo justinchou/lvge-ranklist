@@ -1,0 +1,7 @@
+tester:
+  build: .
+  command: node index.js
+  links:
+    - redis:redis
+redis:
+  image: redis
