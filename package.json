@@ -1,6 +1,6 @@
 {
   "name": "lvge-ranklist",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Rank List Module, With Redis Supported",
   "main": "index.js",
   "dependencies": {
@@ -15,7 +15,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-docker": "docker-compose up"
   },
   "repository": {
     "type": "git",
